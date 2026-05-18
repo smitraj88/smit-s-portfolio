@@ -30,6 +30,18 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
+                <h4>Intern – Python Programming</h4>
+                <h5>Oasis Infobyte</h5>
+              </div>
+              <h3>2026</h3>
+            </div>
+            <p>
+              Completed a 30-day internship in Python Programming, during which I developed a comprehensive chatting application known as Nexus Chat and an AI Voice Assistant.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
                 <h4>Summer Intern – Data Analytics</h4>
                 <h5>Ginarth Infotech, Vallabh Vidhyanagar</h5>
               </div>
